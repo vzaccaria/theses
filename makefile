@@ -17,9 +17,11 @@ product/thesis.pdf: ./product/thesis.md templates/default.latex ./makefile
 	pandoc \
 		--template=./templates/default.latex \
 		-V mainfont:"Fira Sans Light" \
+		-V fontsize:10pt \
 		-V colorlinks:true \
 		-V papersize:a4 \
 		-V geometry:margin=1.5cm \
+		-V linestretch:0.95 \
 		--latex-engine=xelatex $< -o $@
 
 
