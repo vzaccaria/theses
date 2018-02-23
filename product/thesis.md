@@ -4,15 +4,15 @@ Proposte di tesi in ambito architetture dei calcolatori
 RISCV open source microprocessor enhancement // STMicroelectronics
 ------------------------------------------------------------------
 
-**Type**: *thesis/stage* c.o. STMicroelectronics - Agrate Brianza
+**Type**: *thesis/stage* c.o. STMicroelectronics - Agrate Brianza, Italy
 
 **Description**:
 
 This research project is configured with the following design activities
 
 -   Evaluation of the RISCV microprocessor designed in the University of
-    Berkeley, nowadays considered one of the most promising open
-    source microprocessor.
+    Berkeley, nowadays considered one of the most promising open source
+    microprocessor.
 
 -   Extension of its basic instruction set (ISA) with a new group of
     digital signal processing and computer vision instructions to
@@ -33,7 +33,7 @@ Vittorio Zaccaria &lt;<vittorio.zaccaria@polimi.it>&gt;
 Design of the next generation of STRED6 microprocessor-DSP // STMicroelectronics
 --------------------------------------------------------------------------------
 
-**Type**: *thesis/stage* c.o. STMicroelectronics - Agrate Brianza
+**Type**: *thesis/stage* c.o. STMicroelectronics - Agrate Brianza, Italy
 
 **Description**:
 
@@ -65,7 +65,7 @@ Vittorio Zaccaria &lt;<vittorio.zaccaria@polimi.it>&gt;
 Definition of the next STREDL microprocessor for sensor processing // STMicroelectronics
 ----------------------------------------------------------------------------------------
 
-**Type**: *thesis/stage* c.o. STMicroelectronics - Agrate Brianza
+**Type**: *thesis/stage* c.o. STMicroelectronics - Agrate Brianza, Italy
 
 **Description**:
 
